@@ -13,9 +13,9 @@
   </saveData>
   
   <upsells>
-  	<url>http://downloadcdn.shockwave.com/pub/bejeweled-3/InstallBejeweled3.exe</url>
-        <enabled>true</enabled>
-	<video>true</video>
+  	<url>https://store.steampowered.com/app/78000/Bejeweled_3</url>
+        <enabled>false</enabled>
+	<video>false</video>
 	<lang>en-US</lang>
   </upsells>
   
