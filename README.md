@@ -9,7 +9,10 @@ paste this anywhere in the ``<body>`` of your website:
 <iframe src="//s.soggy.cat/popcap/embed/" width="380" height="320" scrolling="no" style="border:0"></iframe>
 ```
 ## known issues
-- ⚠ **chuzzle** isn't fully supported by ruffle, however i still kept a slightly modded version in the games list
-- ⚠ **talismania** is locked to 480p resolution, this might be possible to bypass
-- ❌ **zuma** (including ariel and king.com releases) doesn't work at all
+- ⚠ **chuzzle** isn't fully supported by ruffle<br>
+  [i still kept a slightly modded version in the games list]
+- ⚠ **talismania** is locked to 480p resolution, this might be possible to bypass<br>
+  [currently unused, you can visit at https://s.soggy.cat/popcap/games/talismania]
+- ❌ **zuma** (including ariel and king.com releases) doesn't work at all<br>
+  [won't upload]
 
