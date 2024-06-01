@@ -9,7 +9,7 @@
 //this will affect the go deluxe buttons
 
 &upsellon=true&
-&upsellurl=http://www.doublegames.com/download_game/fromog/en/talismania&
+&upsellurl=https://store.steampowered.com/app/3460/Talismania_Deluxe&
 
 //enable api intergration true / false
 //switches on calls to the msn api
