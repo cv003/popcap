@@ -74,5 +74,7 @@ function unhide(className) {
   });
 }
 
-hide(".popone"); hide(".dark"); 
-hide(".poptwo"); hide(".popthree");
+hide(".dark"); 
+hide(".popone");
+hide(".poptwo"); 
+hide(".popthree");

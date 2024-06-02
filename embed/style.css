@@ -134,21 +134,21 @@ a {
 
 .poptwo {
   width: 150px;
-  height: 250px;
+  height: 300px;
   margin-left: 100px;
-  margin-top: 30px;
+  margin-top: 7px;
 }
 
 .close {
   display: absolute;
   margin-right: -260px;
-  margin-top: -10px;
+  margin-top: 6px;
 }
 
 .close2 {
   display: absolute;
   margin-right: -120px;
-  margin-top: -30px;
+  margin-top: -10px;
 }
 
 .close3 {
