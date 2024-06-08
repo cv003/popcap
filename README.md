@@ -15,7 +15,7 @@ paste this anywhere in the ``<body>`` of your website:
 
   ![don't get firefox](https://raw.githubusercontent.com/cv003/popcap/testing/assets/firefox.gif) <br>
 **broken** on:
-  firefox, tor <br>
+  firefox, tor, mypal <br>
   
   hardware acceleration is required for smooth ruffle playback. <br>
   
