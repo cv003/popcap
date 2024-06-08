@@ -171,3 +171,18 @@ a {
   white-space: pre-wrap;
   user-select: text;
 }
+
+@supports (-moz-appearance:none) {
+  * {
+    scrollbar-width: thin !important;
+  }
+  .close2, .big {
+    position: absolute;
+    top: 20px;
+  }
+  .poptwo .small, .poptwo .mini {
+    top: -11px;
+    position: relative;
+    line-break: 20px !important;
+  }
+}
