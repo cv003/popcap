@@ -11,11 +11,15 @@ paste this anywhere in the ``<body>`` of your website:
 ## compatibility
   ![works best on chrome and safari](https://raw.githubusercontent.com/cv003/popcap/testing/assets/chrome-safari.gif) <br>
 **working** on:
-  chrome, safari, edge, opera, opera gx, brave, vivaldi <br>
+  chrome, safari, edge, opera, opera gx, brave, vivaldi, ie <br>
 
   ![don't get firefox](https://raw.githubusercontent.com/cv003/popcap/testing/assets/firefox.gif) <br>
 **broken** on:
-  firefox, tor, mypal <br>
+  firefox & waterfox, tor, mypal, pale moon, slimbrowser <br>
+
+  ![what](https://raw.githubusercontent.com/cv003/popcap/testing/assets/stop.gif) <br>
+**usuable** on:
+  netscape navigator, qtweb, xombrero, worldwideweb, nintendo ds browser
   
   hardware acceleration is required for smooth ruffle playback. <br>
   
