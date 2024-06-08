@@ -18,7 +18,7 @@ paste this anywhere in the ``<body>`` of your website:
   firefox & waterfox, tor, mypal, pale moon, slimbrowser <br>
 
   ![what](https://raw.githubusercontent.com/cv003/popcap/testing/assets/stop.gif) <br>
-**usuable** on:
+**unusable** on:
   netscape navigator, qtweb, xombrero, worldwideweb, nintendo ds browser
   
   hardware acceleration is required for smooth ruffle playback. <br>
