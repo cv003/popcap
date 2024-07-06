@@ -16,10 +16,6 @@ paste this anywhere in the ``<body>`` of your website:
   ![maybe get firefox](https://raw.githubusercontent.com/cv003/popcap/testing/assets/firefox.gif) <br>
 **working with some issues (thicker scrollbar)** on:
   firefox, waterfox, tor, mypal, pale moon, slimbrowser, basically any gecko based browser <br>
-
-  ![what](https://raw.githubusercontent.com/cv003/popcap/testing/assets/stop.gif) <br>
-**unusable** on:
-  netscape navigator, qtweb, xombrero, worldwideweb, nintendo ds browser
   
   hardware acceleration is required for smooth ruffle playback. <br>
   
