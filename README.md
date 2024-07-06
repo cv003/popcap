@@ -13,9 +13,9 @@ paste this anywhere in the ``<body>`` of your website:
 **working** on:
   chrome, safari, edge, opera, opera gx, brave, vivaldi, ie <br>
 
-  ![don't get firefox](https://raw.githubusercontent.com/cv003/popcap/testing/assets/firefox.gif) <br>
-**broken** on:
-  firefox, tor, mypal<br>
+  ![maybe get firefox](https://raw.githubusercontent.com/cv003/popcap/testing/assets/firefox.gif) <br>
+**working with some issues (thicker scrollbar)** on:
+  firefox, waterfox, tor, mypal, pale moon, slimbrowser, basically any gecko based browser <br>
   
   hardware acceleration is required for smooth ruffle playback. <br>
   
